@@ -1,19 +1,19 @@
 filter +
-map
+map +
 reduce
 flatten +
 orderBy +
-sortBy
+sortBy +
 take
 forEach +
 find +
-groupBy
+groupBy +
 reject
 sample
 sampleSize
 keys +
 values +
 omit +
-pick
+pick +
 capitalize
-match
+match +
