@@ -1,11 +1,11 @@
 filter +
 map
 reduce
-flatten
-orderBy
+flatten +
+orderBy +
 sortBy
 take
-forEach
+forEach +
 find +
 groupBy
 reject
