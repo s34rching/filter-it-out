@@ -1,3 +1,3 @@
 // Task 1:
-// Count the number of all subcategories in the shop
+// Create a function which return the number of all subcategories in the shop
 //

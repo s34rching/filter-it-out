@@ -6,14 +6,14 @@ orderBy
 sortBy
 take
 forEach
-filter
-find
+find +
 groupBy
 reject
 sample
 sampleSize
-keys
-values
-omit
+keys +
+values +
+omit +
 pick
 capitalize
+match
