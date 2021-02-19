@@ -1,4 +1,4 @@
-filter
+filter +
 map
 reduce
 flatten
