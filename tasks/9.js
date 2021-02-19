@@ -1,3 +1,3 @@
 // Task 9:
-// Create function which returns categories names of given section, grouped by their uniqueness
+// Create function which returns categories names (grouped by their uniqueness) of given section
 //

@@ -15,5 +15,5 @@ keys +
 values +
 omit +
 pick +
-capitalize
+capitalize +
 match +
