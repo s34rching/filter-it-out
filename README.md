@@ -1,4 +1,4 @@
-<h3>Play with `lodash`!</h3>
+<h3>Play with [lodash](https://lodash.com/)!</h3>
 
 1. Setup ssh on your local machine and add key to Github.
 2. Please do not fork. Clone this via ssh and make yours. Make your repo private and add me as a collaborator.
