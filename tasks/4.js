@@ -1,5 +1,3 @@
-// Task 4:
-// Create function which returns an array of subcategories names
-// which have the same 'ruName' and 'subcategoryPageRuHeading'
-// and 'path' containing query params
+// Task 1:
+// Create a function which return the number of all subcategories in the shop
 //

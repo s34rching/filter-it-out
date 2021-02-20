@@ -1,3 +1,3 @@
-// Task 5:
-// Create function which returns collection of all tiles in the shop
+// Task 2:
+// Create function checking whether given subcategory is unique in the shop
 //

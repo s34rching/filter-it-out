@@ -1,4 +1,3 @@
-// Task 12:
-// Create a function which returns array of shop section names modified by given algorithm.
-// Algorithm should be provided during function invocation.
+// Task 9:
+// Create function which returns categories names (grouped by their uniqueness) of given section
 //

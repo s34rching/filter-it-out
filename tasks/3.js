@@ -1,4 +1,3 @@
-// Task 3:
-// Create function which returns all non-unique subcategories.
-// Items in returning collection should have only 3 properties: 'ruName', 'subcategoryPageRuHeading', 'path'
+// Task 19:
+// Create a function which returns given amount of random subcategories of given section.
 //

@@ -1,4 +1,3 @@
-// Task 8:
-// Create function which returns specified amount of subcategories of given category.
-// Handle possible exceptions.
+// Task 5:
+// Create function which returns collection of all tiles in the shop
 //

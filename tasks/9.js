@@ -1,3 +1,4 @@
-// Task 9:
-// Create function which returns categories names (grouped by their uniqueness) of given section
+// Task 6:
+// Create a function which returns the most frequently used word in subcategories names
+// with length more than 5 characters
 //
