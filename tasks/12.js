@@ -1,3 +1,4 @@
 // Task 12:
-// Create function which returns categories names (grouped by their uniqueness) of given section
+// Create function which returns categories ruNames (grouped by their uniqueness within shop categories)
+// of given section
 //
